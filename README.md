@@ -85,3 +85,4 @@ Add actual photographs to `images/` and the final report to `docs/`. Placeholder
 ## License
 
 No license has been selected. Choose one only after the team agrees on reuse terms.
+..
